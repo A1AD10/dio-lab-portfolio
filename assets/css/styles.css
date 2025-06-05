@@ -29,7 +29,7 @@
 	--icon-color: #56575A;
 }
 
-html[data-theme='light'] .brand__logo {
+html[data-theme='dark'] .brand__logo {
   filter: invert(1);
 }
 
